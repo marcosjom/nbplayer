@@ -106,6 +106,8 @@ This command:
     >ExecStart=/bin/bash /home/me/nbplayer.service.run.sh<br>
     >Restart=on-failure<br>
     >RestartSec=2s<br>
+    >StandardOutput=null<br>
+    >StandardError=null<br>
     ><br>
     >[Install]<br>
     >WantedBy=default.target<br>
