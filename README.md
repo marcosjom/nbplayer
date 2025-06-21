@@ -13,7 +13,7 @@ Dependencies to the minimun, it can run on minimal installation of Linux without
 
 # Where it runs?
 
-I'm using this on raspberry-pi-3-B, raspberry-pi-4-B and Jetson-Nano-2GB; minimal Debian and Ubuntu installations, no X-server or graphical interfaces installed or running.
+I'm using this on raspberry-pi-zero-2, raspberry-pi-3-B, raspberry-pi-4-B and  Jetson-Nano-2GB; minimal Debian and Ubuntu installations, no X-server or graphical interfaces installed or running.
 
 It can run as a daemon, redering on screen after the device is booted without the need to log-in.
 
